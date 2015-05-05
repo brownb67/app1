@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+ 
+body 
+{
+ background-color: #5F9EA0; 
+ background-image: url(http://thinkingmomsrevolution.com/wp-content/uploads/2012/06/Blogging.jpg);
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+background-position:center;
+background-size:40% 50%;
+ }
+ 
+ h1 {
+	background-color: #7FFFD4;
+ }
+ 
+ p {
+	background-color: #8FBC8F;
+ }
